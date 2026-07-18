@@ -21,14 +21,14 @@
 # Animes, Series, Interests
 <p>
 
-## Tengen Toppa : Gurren Lagann
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJmMGhvcGQ0dWpzb2M4anNzaWh2MDNud2ttMjEyYWJ6MnB6Nng3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rdsqIWOH4c85Fo8cvu/giphy.gif" height=700 width=700>
 
-## Puella Magi Madoka Magica
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXU0bHNiZnZub3RkYnNpcGtiMmZkMXM3c2Y1M295Y2YzN2libjVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFyNMDlBU1jXsJZvIu/giphy.gif" height=700 width=700>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJmMGhvcGQ0dWpzb2M4anNzaWh2MDNud2ttMjEyYWJ6MnB6Nng3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rdsqIWOH4c85Fo8cvu/giphy.gif" height=500 width=700>
 
 
-## Needy Streamer Overload
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlpcDVyaW10Z2o4YXJjcXc4M2o0eTNkMGNxbW5zbGRrOWJrNzgydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NnG0Fk7EK9yNT15xCI/giphy.gif" height=700 width=700>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXU0bHNiZnZub3RkYnNpcGtiMmZkMXM3c2Y1M295Y2YzN2libjVqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFyNMDlBU1jXsJZvIu/giphy.gif" height=500 width=700>
+
+
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlpcDVyaW10Z2o4YXJjcXc4M2o0eTNkMGNxbW5zbGRrOWJrNzgydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NnG0Fk7EK9yNT15xCI/giphy.gif" height=500 width=700>
 
 </p>
